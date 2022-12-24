@@ -1,0 +1,13 @@
+E:\いろいろ\シンコメビュ\bin\Debug\シンコメビュ.exe.config
+E:\いろいろ\シンコメビュ\bin\Debug\シンコメビュ.exe
+E:\いろいろ\シンコメビュ\bin\Debug\シンコメビュ.pdb
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.csproj.AssemblyReference.cache
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.Form1.resources
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.Properties.Resources.resources
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.csproj.GenerateResource.cache
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.csproj.CoreCompileInputs.cache
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.exe
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.pdb
+E:\いろいろ\シンコメビュ\bin\Debug\SuperSocket.ClientEngine.dll
+E:\いろいろ\シンコメビュ\bin\Debug\WebSocket4Net.dll
+E:\いろいろ\シンコメビュ\obj\Debug\シンコメビュ.csproj.CopyComplete
